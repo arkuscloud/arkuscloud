@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**arkuscloud/arkuscloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My friends call me Sol
 
-Here are some ideas to get you started:
+- 🔭 I am working on #100DaysOfCode | #100DaysOfPowerShell
+- :point_right: Currently learning skills for AZ-104 Azure Administrator
+- :point_right: Using Scrum to master Cloud engineering, beginning with #Azure
+- ⚡ I have an insatiable desire to learn
+- 📫 How to reach me:
+  - :man_technologist: [Blog] (https://www.arkuscloud.io)
+  - :man_technologist: [LinkedIn] (https://www.linkedin.com/in/Solan/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solan's Github stats](https://github-readme-stats.vercel.app/api?username=arkuscloud&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
