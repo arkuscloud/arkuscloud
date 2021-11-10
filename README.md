@@ -10,7 +10,7 @@ My friends call me Sol
   - :man_technologist: [Blog] (https://www.arkuscloud.io)
   - :man_technologist: [LinkedIn] (https://www.linkedin.com/in/Solan/)
 
-[![Solan's Github stats](https://github-readme-stats.vercel.app/api?username=arkuscloud&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/arkuscloud/github-readme-stats)
+[![Solan's Github stats](https://github-readme-stats.vercel.app/api?username=arkuscloud&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkuscloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
