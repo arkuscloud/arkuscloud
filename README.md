@@ -2,7 +2,6 @@
 
 My friends call me Sol
 
-- 🔭 I am working on #100DaysOfCode | #100DaysOfPowerShell
 - :point_right: Currently learning skills for AZ-104 Azure Administrator
 - :point_right: Using Scrum to master Cloud engineering, beginning with #Azure
 - ⚡ I have an insatiable desire to learn
